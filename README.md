@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eleonora Mattera</h1>
-<h3 align="center">A passionate fullstack developer from Italy</h3>
+<h3 align="center">A passionate fullstack junior developer from Italy</h3>
 
 <p>🔭 I'm taking an intensive full-stack development class with Epicode</p>
 <p>🔎 I am looking for new opportunities to apply my expertise in HTML5, CSS3, SCSS, Bootstrap,JavaScript, React, Redux, Java, Spring Boot, PostgreSQL </p>

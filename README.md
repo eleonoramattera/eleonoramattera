@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Eleonora Mattera</h1>
 <h3 align="center">A passionate fullstack developer from Italy</h3>
 
-- 📫 How to reach me **m.eleonora98@live.it**
+<p>🔭 I'm taking an intensive full-stack development class with Epicode</p>
+<p>🔎 I am looking for new opportunities to apply my expertise in HTML5, CSS3, SCSS, Bootstrap,JavaScript, React, Redux, Java, Spring Boot, PostgreSQL </p>
+
+📫 How to reach me **m.eleonora98@live.it**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -13,9 +16,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eleonoramattera&show_icons=true&locale=en&layout=compact" alt="eleonoramattera" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eleonoramattera&label=Profile%20views&color=0e75b6&style=flat" alt="eleonoramattera" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eleonoramattera" alt="eleonoramattera" /></a> </p>
+<hr>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eleonoramattera&show_icons=true&locale=en" alt="eleonoramattera" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eleonoramattera&" alt="eleonoramattera" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eleonoramattera" alt="eleonoramattera" /></a> </p>
+

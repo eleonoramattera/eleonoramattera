@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Eleonora Mattera</h1>
 <h3 align="center">A passionate Fullstack Junior Developer</h3>
 
-<p>🔭💻🌐 I just finished a  an intensive full-stack development class with Epicode</p>
-<p>🔎👩🏼‍💻 I am looking for new opportunities to apply my expertise in
+<p>🔭👩🏼‍🎓💻🌐 I just finished a  an intensive full-stack development class with Epicode</p>
+<p>🔎👩🏼‍💻I am looking for new opportunities to apply my expertise in
   <ul>
     <li>HTML5, CSS3, SCSS, Bootstrap,JavaScript, React, Redux</li>
     <li>  Java, Spring Boot, PostgreSQL</li>

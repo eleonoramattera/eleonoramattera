@@ -1,8 +1,13 @@
 <h1 align="center">Hi 👋, I'm Eleonora Mattera</h1>
-<h3 align="center">A passionate fullstack junior developer from Italy</h3>
+<h3 align="center">A passionate fullstack junior developer</h3>
 
-<p>🔭 I'm taking an intensive full-stack development class with Epicode</p>
-<p>🔎 I am looking for new opportunities to apply my expertise in HTML5, CSS3, SCSS, Bootstrap,JavaScript, React, Redux, Java, Spring Boot, PostgreSQL </p>
+<p>🔭💻🌐 I just finished a  an intensive full-stack development class with Epicode</p>
+<p>🔎👩🏼‍💻 I am looking for new opportunities to apply my expertise in
+  <ul>
+    <li>HTML5, CSS3, SCSS, Bootstrap,JavaScript, React, Redux</li>
+    <li>  Java, Spring Boot, PostgreSQL</li>
+  </ul>
+  </p>
 
 📫 How to reach me **m.eleonora98@live.it**
 
